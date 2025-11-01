@@ -33,13 +33,10 @@ File `Overview.xlsx` berisi metadata setiap dokumen putusan.
 |-------|------------|
 | **No** | Nomor urut data |
 | **No Putusan** | Nomor perkara dalam format resmi PN |
-| **Lembaga Peradilan** | Nama pengadilan (mis. PN Amlapura) |
+| **Lembaga Peradilan** | Nama pengadilan (PN Amlapura) |
 | **Barang Bukti** | Barang bukti yang disebut dalam perkara |
 | **Amar Putusan** | Ringkasan hasil akhir/vonis hakim |
-| **Detail URL** | Tautan halaman detail di situs MA RI |
-| **PDF URL** | Tautan langsung ke file PDF putusan |
-| **Status** | Status hukum (jika tersedia) |
-| **Tahun** | Tahun dikeluarkannya putusan |
+
 
 📘 *Contoh entri (5 data pertama)*  
 | No | No Putusan | Lembaga | Amar Putusan | Tahun |
