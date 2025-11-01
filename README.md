@@ -67,8 +67,8 @@ Contoh:
 
 | Nama | NIM | Peran |
 |------|-----|-------|
-| Dio Richard Prastiyo | 202110370001 | Pengumpulan & Preprocessing Data |
-| [Nama Anggota 2] | [NIM Anggota 2] | Dokumentasi & Metadata |
+| Dio Richard Prastiyo | 202210370311061 | Pengumpulan & Preprocessing Data |
+| Muhammad Aunul Hakim | 202210370311073 | Pengumpulan & Preprocessing Data |
 
 ---
 
